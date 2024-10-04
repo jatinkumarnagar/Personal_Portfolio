@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Taxi Booking Website",
+      "imageSrc": "projects/give_lift.png",
+      "description": "This is a project made to learn the basic concept in HTML and CSS language.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/jatinkumarnagar/giveMe_A_lift.git"
+    },
+    {
+      "title": "Appen Website",
+      "imageSrc": "projects/appen.png",
+      "description": "This is a project made to learn the basic concept in Javascript.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Bikanervala Old Website",
+      "imageSrc": "projects/bikanervala.png",
+      "description": "This is a project made to learn the basic concept in Jquery library.",
+      "skills": ["HTML", "CSS", "Jquery"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Stack Overflow Clone",
+      "imageSrc": "projects/stackoverflow.png",
+      "description": "This is a project made to learn the basic concept in Reactjs library and MongoDB.",
+      "skills": ["Reactjs", "MongoDB", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Hotel Booking Website",
+      "imageSrc": "projects/hotelSite.png",
+      "description": "This is a project made to learn the basic concept in PHP and Mysql database with Admin site.",
+      "skills": ["PHP", "Mysql", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Video Institute Website",
+      "imageSrc": "projects/institute.png",
+      "description": "This is a project made to learn the basic concept in Laravel library, PHP and Mysql database.",
+      "skills": ["PHP", "Mysql", "Bootstrap", "Laravel"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  

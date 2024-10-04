@@ -1,0 +1,59 @@
+[
+   {
+    "title": "Photoshop",
+    "imageSrc": "skills/photoshop.png"
+   },
+  {
+    "title": "Adobe XD",
+    "imageSrc": "skills/adobeXd.png"
+   },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Laravel",
+      "imageSrc": "skills/laravel.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "Wordpress",
+      "imageSrc": "skills/wordpress.png"
+    },
+    {
+      "title": "PHP",
+      "imageSrc": "skills/php.png"
+    },
+    {
+      "title": "Mysql",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/C-prog.png"
+    }
+  ]
+  
